@@ -10,4 +10,4 @@ Full-stack site that takes in results from users' surveys, then compares their a
 
 * Go to the survey page.
 
-* Fill out the 10 auestion survey to view your most compatible friend from the database.
+* Fill out the 10 question survey to view your most compatible friend from the database.
