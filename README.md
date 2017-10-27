@@ -11,7 +11,10 @@ Full-stack site that takes in results from users' surveys, then compares their a
 ![Alt text](/img/home.png?raw=true "Home Page")
 
 * Click 'Go to survey'.
+![Alt text](/img/survey.png?raw=true "Survey Button")
 
 * Fill and submit the 10 question survey to view your most compatible friend from the database.
+![Alt text](/img/match.png?raw=true "Match Results")
 
-* (Optional) From the home page, click on 'API Friends List' to view all friends in the database.
+* (Optional) In the bottom left, click on 'API Friends List' to view all friends in the database.
+![Alt text](/img/API.png?raw=true "API Page")
