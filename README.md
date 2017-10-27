@@ -1,4 +1,4 @@
-# Friend Finder - Using Node and Express Servers
+# Friend Finder App - Using Node and Express Servers
 
 ### Overview
 
@@ -6,7 +6,7 @@ Full-stack site that takes in results from users' surveys, then compares their a
 
 ### To Use
 
-* Go to [this project's page at Heroku] (https://secret-lowlands-52730.herokuapp.com/)
+* Go to [this project's page at Heroku](https://secret-lowlands-52730.herokuapp.com/).
 
 * Go to the survey page.
 
