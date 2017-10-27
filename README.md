@@ -8,6 +8,6 @@ Full-stack site that takes in results from users' surveys, then compares their a
 
 * Go to [this project's page at Heroku](https://secret-lowlands-52730.herokuapp.com/).
 
-* Go to the survey page.
+* Click 'Go to survey'.
 
-* Fill out the 10 question survey to view your most compatible friend from the database.
+* Fill and submit the 10 question survey to view your most compatible friend from the database.
