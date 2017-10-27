@@ -1,5 +1,5 @@
 # Friend Finder App
-##Using Node and Express Servers
+## Using Node and Express Servers
 
 ### Overview
 
@@ -10,7 +10,7 @@ Full-stack site that takes in results from users' surveys, then compares their a
 * Go to [this project's page at Heroku](https://secret-lowlands-52730.herokuapp.com/).
 ![Alt text](/img/home.png?raw=true "Home Page")
 
-* Click 'Go to survey'.
+* Click 'Go to Survey'.
 ![Alt text](/img/survey.png?raw=true "Survey Button")
 
 * Fill and submit the 10 question survey to view your most compatible friend from the database.
